@@ -12,6 +12,6 @@ Necessário utilizar algumas das aplicação abaixo para atender alguns requisis
  - Eclipse
  - JUnit 4
 
-# Como rodar a aplica��o
+# Como rodar a aplicação
 
 Necessário ter o JDK e o programa Eclipse instalado em seu computador e as variaveis de ambiente configuradas devidamente.
